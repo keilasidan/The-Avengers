@@ -1,0 +1,10 @@
+.titulo-principal{
+    color: #232a63b0;
+    font-family: "Roboto Condensed";
+}
+body{
+    background-image:url("../5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
