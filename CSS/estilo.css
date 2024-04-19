@@ -1,10 +1,48 @@
-.titulo-principal{
-    color: #232a63b0;
-    font-family: "Roboto Condensed";
+body{ 
+    background-color: black;
 }
-body{
-    background-image:url("../5.png");
+
+.cover{ 
+    background-image:url("../images/5.png");
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
+
+ul li{
+    color: white;
+    font-size: 18px;
+}
+
+.logo {width: 150px;}
+.boton1 {width: 380px;}
+.boton2 {width: 380px;}
+.boton3 {width: 380px;}
+.boton4 {width: 380px;}
+.cover2 {
+background-image: url("../images/6.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.seccion2 {width: 380px;}
+.seccion22 {width: 380px;}
+.seccion23 {width: 380px;}
+.seccion24 {width: 380px;}
+.cover3 {
+background-image: url("../images/7.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.seccion3 {width: 380px;}
+.seccion32 {width: 380px;}
+.seccion33 {width: 380px;}
+.seccion34 {width: 380px;}
+.cover4 {
+background-image: url("../images/8.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.seccion4 {width: 380px;}
+.seccion42 {width: 380px;}
+.seccion43 {width: 380px;}
+.seccion44 {width: 380px;}
