@@ -10,11 +10,18 @@ body{
 }
 
 ul li{
+   display: inline;
     color: white;
-    font-size: 18px;
+    font-size: 25px;
+    position: relative;
+    bottom: 100px;
+    left: 350px;
+    margin-inline-start: 40px;
 }
 
-.logo {width: 150px;}
+.logo {width: 150px;
+margin-top: 0%;
+}
 .boton1 {width: 380px;}
 .boton2 {width: 380px;}
 .boton3 {width: 380px;}
