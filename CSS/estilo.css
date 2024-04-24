@@ -10,11 +10,15 @@ body{
 }
 
 ul li{
+   display: inline;
     color: white;
-    font-size: 18px;
+    font-size: 25px;
+
 }
 
-.logo {width: 150px;}
+.logo {width: 120px;
+margin-top: 0%;
+}
 .boton1 {width: 380px;}
 .boton2 {width: 380px;}
 .boton3 {width: 380px;}
@@ -46,3 +50,25 @@ background-size: cover;
 .seccion42 {width: 380px;}
 .seccion43 {width: 380px;}
 .seccion44 {width: 380px;}
+
+.padre-botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.padre-botones2{
+    display: flex;
+    flex-direction: column;
+}
+.padre-botones3{
+    display: flex;
+    flex-direction: column;
+}
+.padre-botones4{
+    display: flex;
+    flex-direction: column;
+}
+.padre-buscador{
+    display: flex; flex-direction: row;
+    justify-content: space-between;
+}
